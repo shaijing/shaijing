@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 Learning basis of computer science
 - 😄 Interested in functional programming
 
-[我的博客](https://www.etamin.xyz)
+[My Blog](https://www.etamin.xyz)
