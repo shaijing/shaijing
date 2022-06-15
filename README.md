@@ -12,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaijing&show_icons=true&theme=synthwave&count_private=true)
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shaijing&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+### Hello, I'm Ling 👋
+- :orange_book: Focusing on C/C++ now
+- ✨ I’m currently learning mathematic
+- 🌱 Learning basis of computer science
+- 😄 Interested in functional programming
 [我的博客](https://www.etamin.xyz)
