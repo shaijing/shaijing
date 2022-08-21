@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 ### Hello, I'm Ling 👋
 
-- :orange_book: Focusing on C/C++ now
+- :orange_book: Focusing on math now
 
 - ✨ I’m currently learning mathematic
 
