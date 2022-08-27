@@ -10,10 +10,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=shaijing&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" />
-<img align="right" src="https://aster-readme.vercel.app/api/top-langs/?username=shaijing" />
-</div>
 
 
 ### Hello, I'm Ling 👋
@@ -29,3 +25,7 @@ Here are some ideas to get you started:
 ## Languages
 - C/C++
 - JavaScript
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shaijing&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" />
+<img align="right" src="https://aster-readme.vercel.app/api/top-langs/?username=shaijing" />
+</div>
