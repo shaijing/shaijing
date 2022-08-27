@@ -11,15 +11,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shaijing&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" />
-
+<img align="right" src="https://aster-readme.vercel.app/api/top-langs/?username=shaijing" />
 ### Hello, I'm Ling 👋
+- My Blog: [The Rain Pavilion](https://www.etamin.xyz)
+- :orange_book: Major in math now.
 
-- :orange_book: Focusing on math now
-
-- ✨ I’m currently learning mathematic
+- ✨ I’m currently learning mathematic.
 
 - 🌱 Learning basis of computer science
 
 - 😄 Interested in functional programming
 
-[My Blog](https://www.etamin.xyz)
+## Languages
+- C/C++
+- JavaScript
