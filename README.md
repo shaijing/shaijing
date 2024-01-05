@@ -13,19 +13,20 @@ Here are some ideas to get you started:
 
 
 ### Hello, I'm Ling 👋
-- My Blog: [The Rain Pavilion](https://www.etamin.xyz)
+- My Blog: [Blog](https://shaijing.github.io/)
 - :orange_book: Major in math now.
 
-- ✨ I’m currently learning mathematic.
+- ✨ I’m currently learning Operation Research,Optimization and  Machine Learning.
 
-- 🌱 Learning basis of computer science
+- 🌱 Learning basis of computer science.
 
-- 😄 Interested in functional programming
+- ⚡ Interested in math and cs.
 
 ## Languages
+- Python
 - C/C++
-- JavaScript
+- Matlab
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shaijing&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=shaijing&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" />
 <img align="right" src="https://aster-readme.vercel.app/api/top-langs/?username=shaijing" />
 </div>
