@@ -9,16 +9,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- :orange_book:
 -->
 
 
 ### Hello, I'm Ling 👋
 - My Blog: [Blog](https://shaijing.github.io/)
-- :orange_book: Major in math now.
+- 🔭 Major in Mathematics.
 
-- ✨ I’m currently learning Operation Research,Optimization and  Machine Learning.
+- ✨ I'm currently learning Operation Research, Optimization and  Machine Learning.
 
-- 🌱 Learning basis of computer science.
+- 🌱 Learning more aboue mathematics and basis of computer science.
 
 - ⚡ Interested in math and cs.
 
