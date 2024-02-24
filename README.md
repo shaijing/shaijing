@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 ### Hello, I'm Ling 👋
-- My Blog: [Blog](https://shaijing.github.io/)
+- My Blog: [Blog](https://blog.science4ai.com/)
 - 🔭 Major in Mathematics.
 
 - ✨ I'm currently learning Operation Research, Optimization and  Machine Learning.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## Languages
 - Python
-- C/C++
+- C/C++, Rust
 - Matlab
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shaijing&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" />
