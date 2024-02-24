@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 - ✨ I'm currently learning Operation Research, Optimization and  Machine Learning.
 
-- 🌱 Learning more aboue mathematics and basis of computer science.
+- 🌱 Learning more about mathematics and basis of computer science.
 
 - ⚡ Interested in math and cs.
 
 ## Languages
 - Python
-- C/C++, Rust
-- Matlab
+- C/C++,Rust
+- Matlab,Mathematica
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=shaijing&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" />
 <img align="right" src="https://aster-readme.vercel.app/api/top-langs/?username=shaijing" />
