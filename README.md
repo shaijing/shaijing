@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 
 
 ### Hello, I'm Ling 👋
-- My Blog: [Blog](https://blog.science4ai.com/)
+- My Blog: [Science4ai](https://blog.science4ai.com/)
+
 - 🔭 Major in Mathematics.
 
-- ✨ I'm currently learning Operation Research, Optimization and  Machine Learning.
+- ✨ I'm currently learning  Optimization, Machine Learning and LLM.
 
 - 🌱 Learning more about mathematics and basis of computer science.
 
@@ -27,7 +28,6 @@ Here are some ideas to get you started:
 - Python
 - C/C++,Rust
 - Matlab,Mathematica
-<div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=shaijing&show_icons=true&count_private=true&hide_title=true&theme=tokyonight" />
-<img align="right" src="https://aster-readme.vercel.app/api/top-langs/?username=shaijing" />
-</div>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shaijing&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaijing&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
