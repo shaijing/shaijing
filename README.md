@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 Master's in Computer Science and Technology.
 
-- ✨ I'm currently learning Optimization, Machine Learning and LLM.
+- ✨ I'm currently learning Optimization, Machine Learning, and LLM.
 
 - 🌱 Learning more about mathematics and computer science.
 
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ## Languages
 - Python
-- C/C++,Rust
-- Matlab,Mathematica
+- Rust, C/C++
+- Matlab, Mathematica
 
 | <img align="center" src="https://github-readme-stats-azure-chi-92.vercel.app/api?username=shaijing&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats-azure-chi-92.vercel.app/api/top-langs/?username=shaijing&layout=compact&theme=ambient_gradient&hide_border=true" />|
 | ------------- | ------------- |
