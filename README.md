@@ -25,10 +25,18 @@ Here are some ideas to get you started:
 - ⚡ Interested in math and cs.
 
 ## Languages
-- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white), 
-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white), ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23E05D44.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white), ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
+## System
+
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white), ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white), ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white), ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white)
+
+
+## 
 | <img align="center" src="https://github-readme-stats-azure-chi-92.vercel.app/api?username=shaijing&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats-azure-chi-92.vercel.app/api/top-langs/?username=shaijing&layout=compact&theme=ambient_gradient&hide_border=true" />|
 | ------------- | ------------- |
