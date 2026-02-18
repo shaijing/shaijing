@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 
 ### Hello, I'm Ling 👋
-- My Blog: [Science4ai](https://blog.science4ai.com/)
+- My Blog: [ISOM TOP](https://blog.isom.top/)
 
 - 🔭 Master's in Computer Science and Technology.
 
@@ -25,9 +25,10 @@ Here are some ideas to get you started:
 - ⚡ Interested in math and cs.
 
 ## Languages
-- Python
-- Rust, C/C++
-- Matlab, Mathematica
+- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white), 
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white), ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 | <img align="center" src="https://github-readme-stats-azure-chi-92.vercel.app/api?username=shaijing&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats-azure-chi-92.vercel.app/api/top-langs/?username=shaijing&layout=compact&theme=ambient_gradient&hide_border=true" />|
 | ------------- | ------------- |
