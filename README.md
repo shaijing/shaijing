@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 
 
 ## 
-| <img align="center" src="https://github-readme-stats-azure-chi-92.vercel.app/api?username=shaijing&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats-azure-chi-92.vercel.app/api/top-langs/?username=shaijing&layout=compact&theme=ambient_gradient&hide_border=true" />|
+| <img align="center" src="https://gs.isom.top/api?username=shaijing&show_icons=true&include_all_commits=true&theme=ambient_gradient&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://gs.isom.top/api/top-langs/?username=shaijing&layout=compact&theme=ambient_gradient&hide_border=true" />|
 | ------------- | ------------- |
